@@ -1,0 +1,15 @@
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-05/Composite/Proxy/bin/Debug/net7.0/Proxy
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-05/Composite/Proxy/bin/Debug/net7.0/Proxy.deps.json
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-05/Composite/Proxy/bin/Debug/net7.0/Proxy.runtimeconfig.json
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-05/Composite/Proxy/bin/Debug/net7.0/Proxy.dll
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-05/Composite/Proxy/bin/Debug/net7.0/Proxy.pdb
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-05/Composite/Proxy/obj/Debug/net7.0/Proxy.csproj.AssemblyReference.cache
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-05/Composite/Proxy/obj/Debug/net7.0/Proxy.GeneratedMSBuildEditorConfig.editorconfig
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-05/Composite/Proxy/obj/Debug/net7.0/Proxy.AssemblyInfoInputs.cache
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-05/Composite/Proxy/obj/Debug/net7.0/Proxy.AssemblyInfo.cs
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-05/Composite/Proxy/obj/Debug/net7.0/Proxy.csproj.CoreCompileInputs.cache
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-05/Composite/Proxy/obj/Debug/net7.0/Proxy.dll
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-05/Composite/Proxy/obj/Debug/net7.0/refint/Proxy.dll
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-05/Composite/Proxy/obj/Debug/net7.0/Proxy.pdb
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-05/Composite/Proxy/obj/Debug/net7.0/Proxy.genruntimeconfig.cache
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-05/Composite/Proxy/obj/Debug/net7.0/ref/Proxy.dll

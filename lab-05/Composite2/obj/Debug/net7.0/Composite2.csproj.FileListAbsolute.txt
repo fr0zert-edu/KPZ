@@ -1,0 +1,15 @@
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-05/Composite/Composite2/bin/Debug/net7.0/Composite2
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-05/Composite/Composite2/bin/Debug/net7.0/Composite2.deps.json
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-05/Composite/Composite2/bin/Debug/net7.0/Composite2.runtimeconfig.json
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-05/Composite/Composite2/bin/Debug/net7.0/Composite2.dll
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-05/Composite/Composite2/bin/Debug/net7.0/Composite2.pdb
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-05/Composite/Composite2/obj/Debug/net7.0/Composite2.csproj.AssemblyReference.cache
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-05/Composite/Composite2/obj/Debug/net7.0/Composite2.GeneratedMSBuildEditorConfig.editorconfig
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-05/Composite/Composite2/obj/Debug/net7.0/Composite2.AssemblyInfoInputs.cache
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-05/Composite/Composite2/obj/Debug/net7.0/Composite2.AssemblyInfo.cs
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-05/Composite/Composite2/obj/Debug/net7.0/Composite2.csproj.CoreCompileInputs.cache
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-05/Composite/Composite2/obj/Debug/net7.0/Composite2.dll
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-05/Composite/Composite2/obj/Debug/net7.0/refint/Composite2.dll
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-05/Composite/Composite2/obj/Debug/net7.0/Composite2.pdb
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-05/Composite/Composite2/obj/Debug/net7.0/Composite2.genruntimeconfig.cache
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-05/Composite/Composite2/obj/Debug/net7.0/ref/Composite2.dll

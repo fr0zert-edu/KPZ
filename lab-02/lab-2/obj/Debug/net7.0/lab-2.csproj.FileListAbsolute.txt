@@ -1,0 +1,15 @@
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-2/lab-2/bin/Debug/net7.0/lab-2
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-2/lab-2/bin/Debug/net7.0/lab-2.deps.json
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-2/lab-2/bin/Debug/net7.0/lab-2.runtimeconfig.json
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-2/lab-2/bin/Debug/net7.0/lab-2.dll
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-2/lab-2/bin/Debug/net7.0/lab-2.pdb
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-2/lab-2/obj/Debug/net7.0/lab-2.csproj.AssemblyReference.cache
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-2/lab-2/obj/Debug/net7.0/lab-2.GeneratedMSBuildEditorConfig.editorconfig
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-2/lab-2/obj/Debug/net7.0/lab-2.AssemblyInfoInputs.cache
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-2/lab-2/obj/Debug/net7.0/lab-2.AssemblyInfo.cs
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-2/lab-2/obj/Debug/net7.0/lab-2.csproj.CoreCompileInputs.cache
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-2/lab-2/obj/Debug/net7.0/lab-2.dll
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-2/lab-2/obj/Debug/net7.0/refint/lab-2.dll
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-2/lab-2/obj/Debug/net7.0/lab-2.pdb
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-2/lab-2/obj/Debug/net7.0/lab-2.genruntimeconfig.cache
+/media/yaroslav/freeDisk/UNIVER/SoftwareDesignPatterns/lab-2/lab-2/obj/Debug/net7.0/ref/lab-2.dll
